@@ -1,0 +1,5 @@
+body {
+  /* For same font in safari */
+  text-rendering: optimizeLegibility;
+  font-synthesis: none;
+}
